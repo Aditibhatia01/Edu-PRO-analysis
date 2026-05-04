@@ -220,4 +220,4 @@ The interactive HTML dashboard includes:
 
 
 link for dashboard : https://eduprodashboard.netlify.app/
-link for summary:
+link for summary:https://github.com/Aditibhatia01/Edu-PRO-analysis/blob/main/EduPro_Executive_Summary.docx
